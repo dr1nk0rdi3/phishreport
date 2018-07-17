@@ -96,6 +96,7 @@ Example:
 phishing            | organization number victim | message contained in email |
 | ----------------- | -------------------------- | -------------------------- |
 | https://itsfakehere.com | 8:others | click to get discounts |
+
  **example of the first line:** _https://itsfakehere.com ;8;click to get discounts_
 
 ### TELEGRAM
