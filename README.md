@@ -41,6 +41,20 @@ $ sudo pip3 install -r requirements.txt
 $ python3 phishreport.py --help
 ```
 
+### pyfiles account.py
+
+```python
+
+#!/usr/bin/python3
+#set login and password
+
+def account():
+
+    user = 'user'
+    passwd = 'password'
+    return {'username': user, 'password': passwd}
+```
+
 ### HELP
 
 ```sh
