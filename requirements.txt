@@ -1,0 +1,8 @@
+setuptools == 40.0.0
+
+# banner.py: 1
+# phishreport.py: 10
+huepy == 0.9.8.1
+
+# phishreport.py: 8
+requests == 2.12.4
