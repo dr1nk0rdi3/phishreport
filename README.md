@@ -116,5 +116,5 @@ phishing            | organization number victim | message contained in email |
 [git-root]: <https://github.com/ironbits>
 [git-ftimoteo]: <https://github.com/franklintimoteo>
 [phishtank]: <https://www.phishtank.com/register.php>
-[undeadsec]: <t.me/UndeadSec>
-[mlwr]: <t.me/MalwareverseBR>
+[undeadsec]: <https://t.me/UndeadSec>
+[mlwr]: <https://t.me/MalwareverseBR>
