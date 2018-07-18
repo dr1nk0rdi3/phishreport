@@ -118,7 +118,6 @@ phishing            | organization number victim | message contained in email |
 
 ![[phishreport](https://raw.githubusercontent.com/dr1nk0rdi3/phishreport/master/images/thumb.png)][video]
 
-
 [//]: # (REFERENCES)
 
 [tw-drink]: <https://twitter.com/Dr1nkOrdi3>
