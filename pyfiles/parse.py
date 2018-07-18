@@ -21,7 +21,7 @@ def parse_args():
             python3 {0} --phish-list file.txt --set-report 50 --set-interval 2 --exclude --verbose
         or: 
             Show list of organizations
-            python3 {0} --list-or
+            python3 {0} --list-org
             
             '''.format(argv[0])))       
 

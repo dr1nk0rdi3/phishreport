@@ -28,6 +28,12 @@
 
 - Debian – 9.4 stretch
 
+- Ubuntu - 16.04.4
+
+- Manjaro - 17.1.11
+
+- Parrot Security - 4.1
+
 ### CLONE
 
 ```sh
@@ -108,6 +114,11 @@ phishing            | organization number victim | message contained in email |
 
 ![phishreport](https://raw.githubusercontent.com/dr1nk0rdi3/phishreport/master/images/phishreport.png)
 
+### VIDEO DEMO
+
+![[phishreport](https://raw.githubusercontent.com/dr1nk0rdi3/phishreport/master/images/thumb.png)][video]
+
+
 [//]: # (REFERENCES)
 
 [tw-drink]: <https://twitter.com/Dr1nkOrdi3>
@@ -118,3 +129,4 @@ phishing            | organization number victim | message contained in email |
 [phishtank]: <https://www.phishtank.com/register.php>
 [undeadsec]: <https://t.me/UndeadSec>
 [mlwr]: <https://t.me/MalwareverseBR>
+[video]: <https://youtu.be/GLBFEWZHpyE>
