@@ -116,7 +116,7 @@ phishing            | organization number victim | message contained in email |
 
 ### VIDEO DEMO
 
-![phishreport](https://raw.githubusercontent.com/dr1nk0rdi3/phishreport/master/images/phish_thumb.png)[video]
+[![phishreport](https://raw.githubusercontent.com/dr1nk0rdi3/phishreport/master/images/thumb.png)][video]
 
 [//]: # (REFERENCES)
 
